@@ -45,6 +45,6 @@ public class Seducacion {
     }
     
     public boolean existsByNombreE(String nombreE){
-        return rEducacion.existByNombreE(nombreE);
+        return rEducacion.existsByNombreE(nombreE);
     }
 }
